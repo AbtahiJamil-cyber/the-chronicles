@@ -128,7 +128,7 @@
       <div class="bg-white p-4 rounded-xl shadow">2. কোনো কাজ নিজেদের মধ্যে গোপন রাখা যাবে না।</div>
       <div class="bg-white p-4 rounded-xl shadow">3. প্রতি মাসে ৩০ টাকা চাঁদা দিতে হবে।</div>
       <div class="bg-white p-4 rounded-xl shadow">4. কোনো কাজ করতে বললে ৫ দিনের মধ্যে না করলে ১০ টাকা জরিমানা।</div>
-      <div class="bg-white p-4 rounded-xl shadow">5. বড়দের সাথে খারাপ ব্যবহার করা যাবে না।</div>
+      <div class="bg-white p-4 rounded-xl shadow">5. বড়দের সাথে খারাপ ব্যবহার করা যাবে না,একান্ত বাক্তিগত না হলে ২০ টাকা জরিমানা।।</div>
       <div class="bg-white p-4 rounded-xl shadow">6. ক্রিকেট খেললে চিটারী নিষিদ্ধ। প্রতিটি চিটারির জন্য ১০ টাকা জরিমানা।</div>
       <div class="bg-white p-4 rounded-xl shadow">7. রাতে একসাথে থাকতে হবে যুক্তিসম্মত কারণ ছাড়া। না থাকলে ৩০ টাকা জরিমানা।</div>
       <div class="bg-white p-4 rounded-xl shadow">8. এখন থেকে কোনো বিচারে বড়দের কাছে গেলে ৩০ টাকা জরিমানা।</div>
@@ -139,8 +139,8 @@
       <div class="bg-white p-4 rounded-xl shadow">13. কেউ স্বেচ্ছায় বের হয়ে যেতে চাইলে তাকে ১০০ টাকা দিয়ে বের হতে হবে।</div>
       <div class="bg-white p-4 rounded-xl shadow">14. ইচ্ছেদের সাথে কথা বলা সমস্যা না, কিন্তু কোনো গোপন তথ্য ফাঁস হলে ৭০ টাকা জরিমানা।</div>
       <div class="bg-white p-4 rounded-xl shadow">15. অতি গোপন তথ্য ইচ্ছেদের দিলে ২০০ টাকা জরিমানা ও বহিষ্কার।</div>
-      <div class="bg-white p-4 rounded-xl shadow">16.বড়দের সামনে মুখখারাপ করা যাবে না।করলে ৩০ টাকা জরিমানা।</div>
-      <div class="bg-white p-4 rounded-xl shadow">17.এসকল জরিমানা কেও না মানলে তাকে মোটরসাইকেল এ ঘোরানো হবে না।</div>
+      <div class="bg-white p-4 rounded-xl shadow">16.বড়দের সামনে মুখখারাপ করা যাবে না।করলে প্রতিটি মুখখারাপ এর জন্য  ৩০ টাকা জরিমানা।</div>
+      <div class="bg-white p-4 rounded-xl shadow">17.এসকল জরিমানা কেও না মানলে তাকে মোটরসাইকেল এ ঘোরানো হবে না।যদি ১ টাকাও কোম দেয় এবং তিন দিনের মধ্যে পরিশোধ না করলে ঘোরানো বাতিল</div>
     </div>
     <p class="text-center text-sm text-gray-500 mt-8">© Abtahi bin jamil's Group Rules</p>
   </div>
