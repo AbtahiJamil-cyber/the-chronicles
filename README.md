@@ -139,6 +139,8 @@
       <div class="bg-white p-4 rounded-xl shadow">13. কেউ স্বেচ্ছায় বের হয়ে যেতে চাইলে তাকে ১০০ টাকা দিয়ে বের হতে হবে।</div>
       <div class="bg-white p-4 rounded-xl shadow">14. ইচ্ছেদের সাথে কথা বলা সমস্যা না, কিন্তু কোনো গোপন তথ্য ফাঁস হলে ৭০ টাকা জরিমানা।</div>
       <div class="bg-white p-4 rounded-xl shadow">15. অতি গোপন তথ্য ইচ্ছেদের দিলে ২০০ টাকা জরিমানা ও বহিষ্কার।</div>
+      <div class="bg-white p-4 rounded-xl shadow">16.বড়দের সামনে মুখখারাপ করা যাবে না।করলে ৩০ টাকা জরিমানা।</div>
+      <div class="bg-white p-4 rounded-xl shadow">17.এসকল জরিমানা কেও না মানলে তাকে মোটরসাইকেল এ ঘোরানো হবে না।</div>
     </div>
     <p class="text-center text-sm text-gray-500 mt-8">© Abtahi bin jamil's Group Rules</p>
   </div>
