@@ -467,3 +467,32 @@
 
 </body>
 </html>
+<section id="travel-journey" style="font-family: Arial, sans-serif; background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
+  <h2 style="color: #2c3e50;">আমাদের ভ্রমণের গল্প</h2>
+  <p style="font-size: 16px; color: #34495e;">
+    আমরা ঘুরে বেড়াতে খুব পছন্দ করি। এখন পর্যন্ত আমরা যে জায়গাগুলো ঘুরেছি:
+  </p>
+  <ul style="list-style-type: square; margin-left: 20px; color: #27ae60;">
+    <li>ঈশ্বরদী বাইপাস</li>
+    <li>সারাঘাট</li>
+    <li>গোপালপুর</li>
+    <li>লালপুর</li>
+    <li>কলসনগর</li>
+    <li>দুয়ারিয়া</li>
+    <li>সালেশ্বর</li>
+    <li>অর্জুনপুর</li>
+    <li>পাটিকাবাড়ি</li>
+  </ul>
+
+  <p style="font-size: 16px; color: #34495e; margin-top: 15px;">
+    আমরা ভবিষ্যতে যেসব জায়গায় ঘুরতে যেতে চাই:
+  </p>
+  <ul style="list-style-type: square; margin-left: 20px; color: #2980b9;">
+    <li>গৌরীপুর</li>
+    <li>লালন শাহ সেতু</li>
+    <li>রাজশাহী</li>
+    <li>নাটোর</li>
+    <li>বনপাড়া</li>
+  </ul>
+</section>
+
