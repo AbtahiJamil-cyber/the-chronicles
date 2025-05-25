@@ -460,12 +460,12 @@
       </div>
     </div>
 
-    <div class="member-card">
+      <div class="member-card">
         <h3>Tahmid Ali</h3>
         <p>👤অস্থায়ী সদস্য</p>
       </div>
     </div>
-  </div>
+   </div>
 
   <div class="footer">
     <p>&copy; 2025 The Chronicles.developed by Abtahi Bin Jamil,leader,web developer,editor of team,maker of the team।</p>
