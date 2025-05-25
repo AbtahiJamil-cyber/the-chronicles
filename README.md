@@ -459,6 +459,12 @@
         <p>👤 সদস্য</p>
       </div>
     </div>
+
+    <div class="member-card">
+        <h3>Tahmid Ali</h3>
+        <p>👤 সদস্য</p>
+      </div>
+    </div>
   </div>
 
   <div class="footer">
