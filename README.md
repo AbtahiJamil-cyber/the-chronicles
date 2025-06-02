@@ -34,7 +34,7 @@
     }
 
     nav a {
-      color: blue;
+      color:white ;
       text-decoration: none;
       font-weight: bold;
     }
@@ -47,7 +47,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      color: blue;
+      color: white;
       text-shadow: 2px 2px 4px #000;
     }
 
@@ -71,7 +71,7 @@
 
     .footer {
       background-color: #004d40;
-      color: blue;
+      color: white;
       text-align: center;
       padding: 15px 0;
     }
@@ -178,7 +178,7 @@
     }
 
     nav a {
-      color: blue;
+      color: white;
       text-decoration: none;
       font-weight: bold;
     }
@@ -204,7 +204,7 @@
 
     .footer {
       background-color: #004d40;
-      color: blue;
+      color: white;
       text-align: center;
       padding: 15px 0;
     }
@@ -263,7 +263,7 @@
 
     header {
       background-color: #004d40;
-      color: blue;
+      color: white;
       padding: 20px 0;
       text-align: center;
     }
@@ -277,7 +277,7 @@
     }
 
     nav a {
-      color: blue;
+      color: white;
       text-decoration: none;
       font-weight: bold;
     }
@@ -304,7 +304,7 @@
 
     .footer {
       background-color: #004d40;
-      color: blue;
+      color: white;
       text-align: center;
       padding: 15px 0;
       margin-top: 40px;
@@ -359,7 +359,7 @@
 
     header {
       background-color: #004d40;
-      color: blue;
+      color: white;
       padding: 20px 0;
       text-align: center;
     }
@@ -373,7 +373,7 @@
     }
 
     nav a {
-      color: blue;
+      color: white;
       text-decoration: none;
       font-weight: bold;
     }
@@ -417,7 +417,7 @@
 
     .footer {
       background-color: #004d40;
-      color: blue;
+      color: white;
       text-align: center;
       padding: 15px 0;
       margin-top: 40px;
