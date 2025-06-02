@@ -15,7 +15,7 @@
 
     header {
       background-color: #004d40;
-      color: blue;
+      color: white;
       padding: 20px 0;
       text-align: center;
     }
@@ -34,7 +34,7 @@
     }
 
     nav a {
-      color: white;
+      color: blue;
       text-decoration: none;
       font-weight: bold;
     }
