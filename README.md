@@ -15,7 +15,7 @@
 
     header {
       background-color: #004d40;
-      color: white;
+      color: blue;
       padding: 20px 0;
       text-align: center;
     }
@@ -47,7 +47,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      color: white;
+      color: blue;
       text-shadow: 2px 2px 4px #000;
     }
 
@@ -71,7 +71,7 @@
 
     .footer {
       background-color: #004d40;
-      color: white;
+      color: blue;
       text-align: center;
       padding: 15px 0;
     }
@@ -140,8 +140,9 @@
       <div class="bg-white p-4 rounded-xl shadow">14. ইচ্ছেদের সাথে কথা বলা সমস্যা না, কিন্তু কোনো গোপন তথ্য ফাঁস হলে ৭০ টাকা জরিমানা।</div>
       <div class="bg-white p-4 rounded-xl shadow">15. অতি গোপন তথ্য ইচ্ছেদের দিলে ২০০ টাকা জরিমানা ও বহিষ্কার।</div>
       <div class="bg-white p-4 rounded-xl shadow">16.বড়দের সামনে মুখখারাপ করা যাবে না।করলে প্রতিটি মুখখারাপ এর জন্য  ৩০ টাকা জরিমানা।</div>
-      .<div class="bg-white p-4 rounded-xl shadow">17এসকল জরিমানা কেও না মানলে তাকে মোটরসাইকেল এ ঘোরানো হবে না।যদি ১ টাকাও কোম দেয় এবং তিন দিনের মধ্যে পরিশোধ না করলে ঘোরানো বাতিল</div>
-      .<div class="bg-white p-4 rounded-xl shadow">18.রাফাতের জন্য শাস্তি ও জরিমানা লিডার পদক্ষেপ নিবেন।
+      <div class="bg-white p-4 rounded-xl shadow">17এসকল জরিমানা কেও না মানলে তাকে মোটরসাইকেল এ ঘোরানো হবে না।যদি ১ টাকাও কোম দেয় এবং তিন দিনের মধ্যে পরিশোধ না করলে ঘোরানো বাতিল</div>
+      <div class="bg-white p-4 rounded-xl shadow">18.রাফাতের জন্য শাস্তি ও জরিমানা লিডার পদক্ষেপ নিবেন.
+      <div class="bg-white p-4 rounded-xl shadow">19.সকল নিয়ম এর পর লিডার চাইলে সাজা কমাতে পারেন।
     </div>
     <p class="text-center text-sm text-gray-500 mt-8">© Abtahi bin jamil's Group Rules</p>
   </div>
@@ -163,7 +164,7 @@
 
     header {
       background-color: #004d40;
-      color: white;
+      color: blue;
       padding: 20px 0;
       text-align: center;
     }
@@ -177,7 +178,7 @@
     }
 
     nav a {
-      color: white;
+      color: blue;
       text-decoration: none;
       font-weight: bold;
     }
@@ -203,7 +204,7 @@
 
     .footer {
       background-color: #004d40;
-      color: white;
+      color: blue;
       text-align: center;
       padding: 15px 0;
     }
@@ -262,7 +263,7 @@
 
     header {
       background-color: #004d40;
-      color: white;
+      color: blue;
       padding: 20px 0;
       text-align: center;
     }
@@ -276,7 +277,7 @@
     }
 
     nav a {
-      color: white;
+      color: blue;
       text-decoration: none;
       font-weight: bold;
     }
@@ -303,7 +304,7 @@
 
     .footer {
       background-color: #004d40;
-      color: white;
+      color: blue;
       text-align: center;
       padding: 15px 0;
       margin-top: 40px;
@@ -358,7 +359,7 @@
 
     header {
       background-color: #004d40;
-      color: white;
+      color: blue;
       padding: 20px 0;
       text-align: center;
     }
@@ -372,7 +373,7 @@
     }
 
     nav a {
-      color: white;
+      color: blue;
       text-decoration: none;
       font-weight: bold;
     }
@@ -416,7 +417,7 @@
 
     .footer {
       background-color: #004d40;
-      color: white;
+      color: blue;
       text-align: center;
       padding: 15px 0;
       margin-top: 40px;
